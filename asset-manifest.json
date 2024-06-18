@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-deploy/static/css/main.68a03ff8.css",
+    "main.js": "/portfolio-deploy/static/js/main.67df2cc2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-deploy/static/js/787.1ed0c42c.chunk.js",
+    "static/media/portrait.png": "/portfolio-deploy/static/media/portrait.bcf61b646d83c81cb48d.png",
+    "static/media/hero-bg.png": "/portfolio-deploy/static/media/hero-bg.536a5c15811bd9261a04.png",
+    "static/media/quiz-class.png": "/portfolio-deploy/static/media/quiz-class.4538faf9e399d67816bf.png",
+    "static/media/self-portrait.jpg": "/portfolio-deploy/static/media/self-portrait.1b43e0c83468d1e73d76.jpg",
+    "static/media/adobe-ps-transparent.svg": "/portfolio-deploy/static/media/adobe-ps-transparent.5f64226fee58a9d9feb32602d17b8079.svg",
+    "static/media/adobe-xd-transparent.svg": "/portfolio-deploy/static/media/adobe-xd-transparent.2095c3197ec476987b1dd427a471f9cf.svg",
+    "index.html": "/portfolio-deploy/index.html",
+    "static/media/github-square-brands.svg": "/portfolio-deploy/static/media/github-square-brands.bdd05eb0a44d2eff01dd26eaa0b307bb.svg",
+    "static/media/sun-solid.svg": "/portfolio-deploy/static/media/sun-solid.4f202eaec73ceeb5c2612e3fd0bcc567.svg",
+    "static/media/x-solid.svg": "/portfolio-deploy/static/media/x-solid.31c815a00a12259495b28c6073fef815.svg",
+    "static/media/linkedin-brands.svg": "/portfolio-deploy/static/media/linkedin-brands.787aa301244425e7fe5bdcff7917892f.svg",
+    "static/media/bars-solid.svg": "/portfolio-deploy/static/media/bars-solid.4de0b64b468d9cdbdd41f4d490765099.svg",
+    "static/media/moon-solid.svg": "/portfolio-deploy/static/media/moon-solid.24663276c05fe9e5c5d44c7b22966454.svg",
+    "main.68a03ff8.css.map": "/portfolio-deploy/static/css/main.68a03ff8.css.map",
+    "main.67df2cc2.js.map": "/portfolio-deploy/static/js/main.67df2cc2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-deploy/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68a03ff8.css",
+    "static/js/main.67df2cc2.js"
+  ]
+}
